@@ -160,24 +160,6 @@ npm run dev
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here.
-
-### Home Page
-
-<img src="images/home.png" width="900">
-
-### Student Dashboard
-
-<img src="images/student-dashboard.png" width="900">
-
-### Instructor Dashboard
-
-<img src="images/instructor-dashboard.png" width="900">
-
----
-
 # 🔮 Future Scope
 
 - AI Course Recommendation
